@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: Pedro Cardoso
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Personal blog reagarding my studies in statistics, mathematics, data visualization, reporting and programming.
 
 # Your name to show in the footer
-author: Some Person
+author: Pedro Cardoso
 
 # --- List of links in the navigation bar --- #
 
@@ -39,9 +39,9 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  #facebook: deanattali
+  github: G4L1C
+  twitter: G4L1C
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
